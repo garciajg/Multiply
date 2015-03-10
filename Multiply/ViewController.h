@@ -9,7 +9,8 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
-
+@property NSString *resultOne;
+@property NSString *resultTwo;
 
 @end
 
